@@ -1,7 +1,7 @@
 {
   "name": "zorm",
   "version": "0.0.1",
-  "description": "A tiny utility library for working with forms in Vue",
+  "description": "Tiny form helper for Vue.js",
   "main": "dist/Zorm.js",
   "scripts": {
     "compile": "./node_modules/.bin/babel -d dist/ src/",
